@@ -4,6 +4,20 @@
 
 This project is a modern, cloud-hosted personal resume website built as part of the Cloud Resume Challenge. It showcases expertise in AWS cloud services along with frontend development using HTML and CSS.
 
+**Repository Structure:**
+
+My Cloud Resume Challenge/
+
+/- CNAME - domain name for future
+
+/- README.md - Documentation
+
+/- index.html - Full HTML code
+
+/- scripts.js - Java Script Code
+
+/- styles.css - CSS style sheet code
+
 ## Features
 
 - Hosted Fully on AWS: Leveraging AWS S3 for static website hosting, AWS CloudFront for CDN, and Route 53 for custom domain management.
